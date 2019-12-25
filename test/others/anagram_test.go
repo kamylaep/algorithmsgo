@@ -1,7 +1,7 @@
 package others
 
 import (
-	"kep/algorithms/others"
+	"kep/algorithms-go/others"
 	"testing"
 )
 
