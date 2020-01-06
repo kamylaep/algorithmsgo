@@ -1,8 +1,9 @@
 package others
 
 import (
-	"kep/algorithms-go/others"
 	"testing"
+
+	"github.com/kamylaep/algorithmsgo/others"
 )
 
 type Anagram struct {
